@@ -1,0 +1,22 @@
+:root {
+    --text-color:#00b8ef;
+    --primary-text-color:#fff;
+    --secondary-text-color:#000;
+    --btn-color: #3db2e0;
+    --forms-color: #94989b;
+}
+
+#header{
+    min-height: 90vh;
+    background-image: url("imagem/hrz-5.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
+
+.banner.active{
+    opacity: 10;
+}
